@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "SeeMore",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -17,23 +17,23 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Sup",
+      "url": "mailto:mheavers@mozilla.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "Dash",
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "API",
       "url": "api-reference"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Docks",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
@@ -54,7 +54,8 @@
       "pages": [
         "introduction",
         "quickstart",
-        "development"
+        "development",
+        "perform-a-search"
       ]
     },
     {
@@ -84,8 +85,9 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
-  }
+    "x": "https://x.com/leaveittoheavers",
+    "github": "https://github.com/heaversm",
+    "linkedin": "https://www.linkedin.com/in/heaversm"
+  },
+  "openapi": "openapi.yaml"
 }
